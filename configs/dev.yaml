@@ -1,0 +1,8 @@
+project: nyc_taxi
+data:
+  raw_dir: data/raw
+  reference_dir: data/reference
+aws:
+  region: eu-central-1
+  s3_bronze_bucket: your-bronze-bucket-name
+  s3_bronze_prefix: bronze/nyc_taxi

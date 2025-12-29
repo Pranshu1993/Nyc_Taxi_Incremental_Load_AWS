@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual envs
+nyc_env/
+.venv/
+venv/
+
+# Local data (keep reference small files if you want)
+data/raw/
+data/tmp/
+
+# Secrets
+.env
+*.tfstate
+*.tfstate.*
+.terraform/

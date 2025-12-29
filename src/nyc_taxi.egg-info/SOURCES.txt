@@ -1,0 +1,6 @@
+pyproject.toml
+src/nyc_taxi/__init__.py
+src/nyc_taxi.egg-info/PKG-INFO
+src/nyc_taxi.egg-info/SOURCES.txt
+src/nyc_taxi.egg-info/dependency_links.txt
+src/nyc_taxi.egg-info/top_level.txt
