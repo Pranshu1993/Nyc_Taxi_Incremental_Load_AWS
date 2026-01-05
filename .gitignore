@@ -21,3 +21,8 @@ data/tmp/
 *.tfstate
 *.tfstate.*
 .terraform/
+
+user_IL_accessKeys.csv
+
+# terraform tools
+.tools/terraform/*
